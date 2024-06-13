@@ -15,3 +15,34 @@ body{
 .logo {
     padding: 10px 5px 5px 20px;
 }
+
+.first-content {
+    background-color: white;
+    margin: 10px;
+    height: 50px;
+    padding: 10px 80px 10px 20px;
+}
+
+.page-content {
+    padding: 50px 150px 0px 150px;
+}
+
+.bottone-1 {
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: #14aaf5;
+    border-style: none;
+}
+
+.bottone-2 {
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: #f6f8f9;
+    border-style: ridge;
+}
+
+.second-content {
+    background-color: blue;
+    
+}
