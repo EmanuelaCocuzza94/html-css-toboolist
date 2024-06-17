@@ -43,6 +43,33 @@ body{
 }
 
 .second-content {
-    background-color: blue;
-    
+    background-color: white;
+    padding: 10px 80px 10px 20px;
+    margin: 10px;  
+}
+
+.list-title {
+    display: inline-block;
+}
+
+.list-title div {
+    display: inline-block;
+}
+
+.list {
+    display: inline-block;
+}
+
+.bottone-3-editorial {
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+    background-color: #14aaf5;
+    border-style: none;
+    display: inline-block;
+}
+
+.third-content {
+    background-color: white;
+    padding: 10px 80px 10px 20px;
+    margin: 10px; 
 }
