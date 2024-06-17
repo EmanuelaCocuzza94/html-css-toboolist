@@ -50,6 +50,7 @@ body{
 
 .list-title {
     display: inline-block;
+    margin: 10px;
 }
 
 .list-title div {
@@ -58,6 +59,7 @@ body{
 
 .list {
     display: inline-block;
+    margin: 10px;
 }
 
 .bottone-3-editorial {
@@ -66,6 +68,7 @@ body{
     background-color: #14aaf5;
     border-style: none;
     display: inline-block;
+    margin: 10px;
 }
 
 .third-content {
@@ -73,3 +76,60 @@ body{
     padding: 10px 80px 10px 20px;
     margin: 10px; 
 }
+
+.bottone-4-editorial{
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+    background-color: #ab5de6;
+    border-style: none;
+    display: inline-block; 
+    margin: 10px;
+}
+
+.bottone-5-editorial{
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+    background-color: #2cc6ab;
+    border-style: none;
+    display: inline-block; 
+    margin: 10px;
+}
+
+.bottone-6-editorial{
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+    background-color: #ff9b00;
+    border-style: none;
+    display: inline-block; 
+    margin: 10px; 
+}
+
+.bottone-7-editorial {
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+    background-color: #ec4a9d;
+    border-style: none;
+    display: inline-block; 
+    margin: 10px;  
+}
+
+.bottone-8-editorial {
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+    background-color: #a3d116;
+    border-style: none;
+    display: inline-block; 
+    margin: 10px;  
+}
+
+.bottone-9-editorial {
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+    background-color: #09a9ed;
+    border-style: none;
+    display: inline-block; 
+    margin: 10px;  
+}
+
+
+
